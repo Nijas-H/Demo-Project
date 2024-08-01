@@ -18,5 +18,12 @@ public class ClassB {
 	}
 	private void test() {
 		System.out.println("test6");
-}
+	}
+	
+	private void test6() {
+		System.out.println("test");
+	}
+	private void test7() {
+		System.out.println("test7");
+	}
 }
